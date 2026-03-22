@@ -1,0 +1,59 @@
+# Anvil – Free to Use Software License
+
+**Copyright (c) 2025–2026 Arakendo**
+https://arakendo.com
+
+## Definition
+
+"Software" refers to the Anvil project source code, binaries, and associated
+files.
+
+## 1. Grant of License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Software, to use, copy, modify, and distribute the Software, subject
+to the following conditions:
+
+- This license notice shall be included in all copies or substantial portions
+  of the Software.
+- You may not sell, sublicense, or distribute the Software (whether original
+  or modified) as part of a commercial product, service, or offering where the
+  Software itself is a primary component of value.
+- You may not sublicense the Software or alter, remove, or replace this
+  license in any redistribution.
+- Use of the Software as a tool within commercial or non-commercial work
+  (e.g., using Anvil at your job) is expressly permitted.
+
+## 2. Modifications
+
+You may modify this software for your own use. Redistribution of modified
+versions is permitted provided that:
+
+- This license notice is retained, and
+- Changes are clearly indicated.
+
+## 3. No Warranty
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability or fitness
+for a particular purpose.
+
+In no event shall the author be liable for any claim, damages, or other
+liability arising from, out of, or in connection with the software or its use.
+
+---
+
+## Third-Party Components
+
+This software uses third-party libraries that are subject to their own license
+terms. These include but are not limited to:
+
+| Component | License |
+|---|---|
+| Microsoft.Web.WebView2 | BSD-style |
+| DockPanelSuite | MIT |
+| Excalidraw | MIT |
+| Draw.io | Apache 2.0 |
+
+Use of third-party components is governed by their respective licenses.
+The author makes no claim of ownership over third-party code.
