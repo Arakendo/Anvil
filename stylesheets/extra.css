@@ -1,0 +1,17 @@
+/* AnvilKanban website extra styles */
+
+/* Hero page full-width layout */
+.md-content__inner {
+  max-width: 960px;
+}
+
+/* Grid card improvements */
+.md-typeset .grid.cards > ul > li {
+  border-left: 4px solid var(--md-primary-fg-color);
+}
+
+/* Primary button sizing */
+.md-button--primary {
+  font-size: 1rem;
+  padding: 0.6rem 1.4rem;
+}
